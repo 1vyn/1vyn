@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1vyn
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning anything related to Cyber Security
+- 🌱 I’m currently learning Cyber Security
 - 📫 How to reach me: @1.vynn on IG
 
 <!---
